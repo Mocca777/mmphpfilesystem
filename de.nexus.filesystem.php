@@ -1,4 +1,7 @@
 <?php
+# Project is in working
+# Comments coming soon
+# free for non-profit
 class filesystem_nexus_de{
  public $date = "1541856873";
  public $version = "1.0.0";
